@@ -1,4 +1,4 @@
-public class SimpleCalculator {
+public class Calculator {
     public static void main(String[] args) {
         // Hardcoded values for demonstration
         double num1 = 25.0;
